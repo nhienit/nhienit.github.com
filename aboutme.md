@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Có làm thì mới có ăn
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mình là một tên newbie bon chen trong ngành Security bao la, rộng lớn để lượm nhặt từng bit kiến thức cho riêng bản thân mình và cũng chả biết sẽ đi được bao xa nhưng sẽ cố gắng hết sức của tuổi trẻ để theo đuổi ước mơ XD.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Tự giới thiệu mình là dân chơi hệ `Web` và hệ `đá` =)))
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Đây là blog mà mình muốn ghi chú lại hết những gì mình đã biết và học được trong suốt thời gian theo đuổi ngành An toàn thông tin này, mục đích là để sau này có cái để nhìn lại mình đã nổ lực như thế nào!!! hihi 
