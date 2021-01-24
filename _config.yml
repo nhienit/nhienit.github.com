@@ -15,11 +15,10 @@ author: NhienIT
 navbar-links:
   About Me: "aboutme"
   Write up: "writeup"
-  Contact: "contact"
   Blog: "blog"
-  #Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Contact:
+    - Faceook: "https://facebook.com/nhienit2010"
+    - Github: "https://github.com/nhienit2010"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
