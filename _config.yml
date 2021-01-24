@@ -14,6 +14,9 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Write up: "writeup"
+  Contact: "contact"
+  Blog: "blog"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
